@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>I need to more commits..<br>
+<br>I need more commits..<br>
 
 [![](https://visitcount.itsvg.in/api?id=sakai1250&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
 
