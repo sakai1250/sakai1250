@@ -1,4 +1,13 @@
-### Hi there 👋
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakai1250&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 <!--
 **sakai1250/sakai1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
