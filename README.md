@@ -1,4 +1,5 @@
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakai1250&show_icons=true&theme=vue-dark)
+![sakai1250's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakai1250&show_icons=true&theme=vue-dark)
+<!-- [![sakai1250's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakai1250)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
