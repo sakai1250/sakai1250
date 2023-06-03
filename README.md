@@ -6,7 +6,7 @@ I’m currently learning Swift, Python, C#
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![sakai1250's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakai1250&show_icons=true&theme=vue-dark) -->
-<br>I need more commits..<br>
+<br>I need more stars..<br>
 
 [![](https://visitcount.itsvg.in/api?id=sakai1250&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
 
