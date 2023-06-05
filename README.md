@@ -1,9 +1,9 @@
 <!-- [![sakai1250's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakai1250)](https://github.com/anuraghazra/github-readme-stats) -->
-I’m currently learning Swift, Python, C#
+I'm studying Deep learning(undergraduate).
+I’m currently learning Swift, Python, C#.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)
 
 <!-- ![sakai1250's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakai1250&show_icons=true&theme=vue-dark) -->
 <br>I need more stars..<br>
