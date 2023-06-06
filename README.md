@@ -2,13 +2,12 @@
 I'm studying Deep learning(undergraduate).
 I’m currently learning Swift, Python, C#.
 
-<a> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark&layout=compact" /></a>
+<a> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark&layout=compact" />
+ <img src="https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord" /></a> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord" />
-
-
+※vscode only
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@sakai1250/bb8b342c-289b-4e62-95d2-9709bcb0afbc.svg" />
+<img src="https://wakatime.com/share/@sakai1250/bb8b342c-289b-4e62-95d2-9709bcb0afbc.svg" width="400" height="300" />
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
