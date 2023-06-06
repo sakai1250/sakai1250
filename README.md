@@ -1,7 +1,7 @@
 <!-- [![sakai1250's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakai1250)](https://github.com/anuraghazra/github-readme-stats) -->
 I'm studying Deep learning(undergraduate).
 I’m currently learning Swift, Python, C#.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord)
 
