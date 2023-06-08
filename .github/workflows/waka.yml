@@ -20,7 +20,7 @@ jobs:
 
     steps:
 
-      - uses: sakai1250/sakai1250@master
+      - uses: sakai1250/sakai1250@main
 
         with:
 
