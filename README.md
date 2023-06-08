@@ -9,8 +9,6 @@ I’m currently learning Swift, Python, C#.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 152.6 kB Used in GitHub's Storage 
@@ -78,18 +76,13 @@ Swift                    1 repo              ██░░░░░░░░░�
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
 
  Last Updated on 08/06/2023 04:41:07 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
 
-[![](https://visitcount.itsvg.in/api?id=sakai1250&label=Profile%20Views&color=2&pretty=false)](https://visitcount.itsvg.in)
+
 
 
