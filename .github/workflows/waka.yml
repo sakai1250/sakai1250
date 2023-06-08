@@ -34,7 +34,7 @@ jobs:
 
           TIME_RANGE: all_time
 
-          SHOW_TIME: true
+          SHOW_TIME: False
 
           SHOW_MASKED_TIME: true
 
