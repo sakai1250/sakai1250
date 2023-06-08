@@ -20,7 +20,7 @@ jobs:
 
     steps:
 
-      - uses: athul/waka-readme@master
+      - uses: sakai1250/waka-readme@master
 
         with:
 
