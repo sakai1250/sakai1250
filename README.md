@@ -52,7 +52,7 @@ Sunday                   197 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       0 secs              █████████████████████████   100.00 % 
+Git Config               0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 tetris_unity             0 secs              █████████████████████████   100.00 % 
@@ -78,7 +78,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 01:51:09 UTC
+ Last Updated on 27/06/2023 01:49:44 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
