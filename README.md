@@ -11,7 +11,7 @@ I’m currently learning Swift, Python, C#.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,7 +78,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2023 01:48:49 UTC
+ Last Updated on 29/06/2023 01:44:30 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
