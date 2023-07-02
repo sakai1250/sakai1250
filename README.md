@@ -1,6 +1,6 @@
 
 I'm studying Deep learning(undergraduate).
-I’m currently learning Swift, Python, C#.
+I’m currently learning Swift, Python, C#, Kotlin.
 ## Readme stats
 <a> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakai1250&theme=vue-dark&layout=compact" />
  <img src="https://github-profile-trophy.vercel.app/?username=sakai1250&theme=discord" /></a> 
