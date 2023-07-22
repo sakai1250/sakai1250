@@ -9,7 +9,7 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,15 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   25 hrs 18 mins      ███████████████████████░░   93.42 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   23 hrs 48 mins      ██████████████████████░░░   88.79 % 
+YAML                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-sakai                    27 hrs 1 min        █████████████████████████   99.80 % 
-DetectGoldfish           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+sakai                    26 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    26 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 01:25:15 UTC
+ Last Updated on 22/07/2023 01:24:12 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
