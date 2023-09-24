@@ -9,7 +9,7 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2023 01:06:30 UTC
+ Last Updated on 24/09/2023 01:12:06 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
