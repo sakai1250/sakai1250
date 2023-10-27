@@ -52,15 +52,13 @@ Sunday                   211 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-ActionScript 3           8 mins              █████████████████████████   98.50 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   98.50 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +78,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 01:07:47 UTC
+ Last Updated on 27/10/2023 01:08:04 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
