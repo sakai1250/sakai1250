@@ -15,7 +15,7 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 **🐱 My GitHub Data** 
 
-> 📦 156.1 kB Used in GitHub's Storage 
+> 📦 156.2 kB Used in GitHub's Storage 
  > 
 > 🏆 117 Contributions in the Year 2023
  > 
@@ -78,7 +78,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2023 01:08:04 UTC
+ Last Updated on 28/10/2023 01:06:50 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
