@@ -9,7 +9,7 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,15 +52,15 @@ Sunday                   215 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   4 hrs 10 mins       █████████████████████████   99.96 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   5 hrs 51 mins       █████████████████████████   99.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Firefly_original         3 hrs 59 mins       ████████████████████████░   95.58 % 
-home                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Firefly_original         5 hrs 40 mins       ████████████████████████░   96.86 % 
+home                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-WSL                      4 hrs 10 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 01:12:40 UTC
+ Last Updated on 02/02/2024 01:08:39 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
