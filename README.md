@@ -9,15 +9,13 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 753.6 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,17 +50,16 @@ Sunday                   233 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   6 hrs 3 mins        ████████████████████████░   95.03 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   5 hrs 46 mins       ███████████████████████░░   91.92 % 
+Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🐱‍💻 Projects: 
-IncrimentNN              5 hrs 52 mins       ███████████████████████░░   92.25 % 
-Firefly_original         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-sakai                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+IncrimentNN              5 hrs 46 mins       ███████████████████████░░   92.11 % 
+Firefly_original         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+sakai                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Linux                    6 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +79,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2024 01:18:46 UTC
+ Last Updated on 25/06/2024 01:17:39 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
