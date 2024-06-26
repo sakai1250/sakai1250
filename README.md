@@ -9,13 +9,15 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 753.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 53 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,16 +52,19 @@ Sunday                   233 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   5 hrs 46 mins       ███████████████████████░░   91.92 % 
-Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Python                   8 hrs 31 mins       ██████████████████████░░░   87.98 % 
+Text                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+SSH Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-IncrimentNN              5 hrs 46 mins       ███████████████████████░░   92.11 % 
-Firefly_original         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-sakai                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+IncrimentNN              9 hrs 10 mins       ████████████████████████░   94.62 % 
+root_tracking            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+sakai                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 34 mins       █████████████████████████   98.83 % 
+Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +84,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 01:17:39 UTC
+ Last Updated on 26/06/2024 01:17:38 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
