@@ -17,6 +17,8 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 > 📦 808.2 kB Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -81,7 +83,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 01:21:34 UTC
+ Last Updated on 17/08/2024 01:19:43 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
