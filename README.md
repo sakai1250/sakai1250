@@ -9,7 +9,7 @@ I’m currently learning Swift, Python, C#, Kotlin.
 
 ※vscode only
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,14 +52,14 @@ Sunday                   233 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████████████████░░   91.99 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Python                   1 hr 17 mins        ██████████████████████░░░   87.61 % 
+Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 🐱‍💻 Projects: 
-IncrimentNN              1 hr 23 mins        █████████████████████████   100.00 % 
+IncrimentNN              1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sakai1250/sakai1250/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 01:25:44 UTC
+ Last Updated on 07/09/2024 01:24:38 UTC
 <!--END_SECTION:waka-->
 
 <br>I need more stars..<br>
