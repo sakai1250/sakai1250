@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 # GitHub Stats:
 <p>
-<img alt="Top Langs" width="40.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=sakai1250&layout=compact&show_icons=true&theme=dracula" />
+<img alt="Top Langs" width="40.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=sakai1250&layout=compact&show_icons=true&theme=dracula&count_private=true" />
 <img alt="github stats" width="48.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=sakai1250&theme=dracula&show_icons=ture&count_private=true" />  
 </p>
 
