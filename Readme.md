@@ -12,6 +12,27 @@
 
 ## My Apps
 
+### kikonAshI(iOS)
+独自開発したファッションAIを搭載する、毎日着る服の組み合わせをAIが提案してくれるアプリ \
+**App Store リリース中** \
+ダウンロードは[こちら](https://apps.apple.com/jp/app/kikonashi/id6502258139)
+
+[<img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" alt="GitHub画像" width="150">](https://github.com/sakai1250/hacku2023)
+
+### 貯Pay箱(Web)
+PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを楽しくモチベーション共有・維持・管理するアプリ
+
+[<img src="https://github.com/user-attachments/assets/770a600a-b3b5-4459-ae9a-f09943e82a0f" width="100">](https://github.com/jphacks/F_2208)
+
+
+### NERO(Android)
+毎日のタスクを管理するとともに、 睡眠時間も把握できるアプリ
+
+[<img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" alt="GitHub画像" width="150">](https://github.com/jphacks/F_2107)
+
+
+### 超解像アプリ(iOS・Android)
+製作中
 
 
 ## Kaggle
