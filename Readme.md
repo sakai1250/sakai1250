@@ -58,6 +58,26 @@ PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを�
 ### 超解像アプリ(iOS・Android)
 製作中
 
+# Playround
+
+### 金魚画像識別サイト
+[<img width="150" alt="flask_app" src="https://github.com/user-attachments/assets/6810d77d-35e9-44ff-96c7-7921653a5e1c" />](https://github.com/sakai1250/ML_app_flask_test)
+
+[Github url](https://github.com/sakai1250/ML_app_flask_test)
+
+### SuperMarioを強化学習でプレイ(1-1, 1-3, 3-4, 4-1クリア)
+[<img width="150" alt="mario" src="https://github.com/user-attachments/assets/f463115e-7fdf-47ac-97d1-164cb3b9bea7" />](https://github.com/sakai1250/RL_super_mario_bro)
+
+[Github url](https://github.com/sakai1250/RL_super_mario_bro)
+
+
+
+### ブロック崩しゲーム
+[<img width="150" alt="blockkuzushi" src="https://github.com/user-attachments/assets/c82ac5df-8c0c-4e3b-b9e8-92ede64a08d9" />](https://github.com/sakai1250/Block_KUZUSHI_unity)
+
+[Github url](https://github.com/sakai1250/ML_app_flask_test](https://github.com/sakai1250/Block_KUZUSHI_unity))
+
+
 
 ## Kaggle
 
