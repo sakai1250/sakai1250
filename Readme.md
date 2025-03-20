@@ -25,6 +25,7 @@
 ### StylePlan(Web,iOS)
 天気予報、ToDoリスト、料理のレシピ提案、音楽週間Top3という4つの機能を備えた、大学生の1人暮らし生活を支えるアプリ
 
+[<img width="150" alt="styleplan" src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" />](https://github.com/sakai1250/HackU2022)
 
 [Github url](https://github.com/sakai1250/HackU2022)
 
