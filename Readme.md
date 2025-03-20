@@ -22,6 +22,14 @@
 [Github url](https://github.com/sakai1250/hacku2023)
 
 ---
+### StylePlan(Web,iOS)
+天気予報、ToDoリスト、料理のレシピ提案、音楽週間Top3という4つの機能を備えた、大学生の1人暮らし生活を支えるアプリ
+
+
+[Github url](https://github.com/sakai1250/HackU2022)
+
+
+---
 
 ### 貯Pay箱(Web)
 PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを楽しくモチベーション共有・維持・管理するアプリ
