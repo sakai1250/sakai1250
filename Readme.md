@@ -70,14 +70,15 @@ PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを�
 
 [Github url](https://github.com/sakai1250/RL_super_mario_bro)
 
-
-
 ### ブロック崩しゲーム
 [<img width="150" alt="blockkuzushi" src="https://github.com/user-attachments/assets/c82ac5df-8c0c-4e3b-b9e8-92ede64a08d9" />](https://github.com/sakai1250/Block_KUZUSHI_unity)
 
 [Github url](https://github.com/sakai1250/ML_app_flask_test](https://github.com/sakai1250/Block_KUZUSHI_unity))
 
+### テトリヌ
+学部1年時に初めて作ったテトリスゲーム
 
+[Github url](https://github.com/sakai1250/Tetorinu/tree/main)
 
 ## Kaggle
 
