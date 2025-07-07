@@ -72,6 +72,15 @@ PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを�
 [Github url](https://github.com/jphacks/F_2107)
 
 ---
+### mind shuffle (web・iOS・Android)
+
+https://mind-shuffle.web.app/
+
+コーパスからランダムに単語を音声再生するアプリ \\
+カテゴリ・再生間隔の選択可能
+[<img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" alt="GitHub画像" width="150">](https://github.com/jphacks/F_2107)
+
+---
 
 ### 小銭カウントアプリ(iOS・Android)
 製作中
