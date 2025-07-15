@@ -110,7 +110,7 @@ https://mind-shuffle.web.app/
 [Github url](https://github.com/sakai1250/ML_app_flask_test](https://github.com/sakai1250/Block_KUZUSHI_unity))
 
 ### テトリヌ
-学部1年時に初めて作ったテトリスゲーム
+学部1年時に初めて作ったテトリスゲーム(学科内投票で3位獲得？)
 
 [Github url](https://github.com/sakai1250/Tetorinu/tree/main)
 
