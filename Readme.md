@@ -45,6 +45,16 @@
 [Github url](https://github.com/sakai1250/hacku2023)
 
 ---
+### すごすぎる時間割(iOS, Android)
+※情報技術研究会の一員として開発に協力
+[iOS](https://apps.apple.com/jp/app/%E3%81%99%E3%81%94%E3%81%99%E3%81%8E%E3%82%8B%E6%99%82%E9%96%93%E5%89%B2/id6744370038)
+[Android](https://play.google.com/store/apps/details?id=com.jogiken.sugosugiru)
+
+[<img width="150" src="https://github.com/user-attachments/assets/b1d58dae-fc06-4ca8-aae2-7b76901d79b8" />](https://www.jogiken.com/sugosugiru/)
+
+[公式サイト](https://www.jogiken.com/sugosugiru/)
+
+---
 ### StylePlan(Web,iOS)
 天気予報、ToDoリスト、料理のレシピ提案、音楽週間Top3という4つの機能を備えた、大学生の1人暮らし生活を支えるアプリ
 
