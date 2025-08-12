@@ -1,3 +1,8 @@
+# Profile as a Reseacher(Click to jump)
+[<img width="300" alt="image" src="https://github.com/user-attachments/assets/6f000641-b7a3-46e8-825c-60dde4c50472" />](https://scholar.google.com/citations?user=LZnH1HIAAAAJ&hl=en&authuser=1)
+[]()
+
+
 ## Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
