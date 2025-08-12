@@ -1,6 +1,7 @@
 # Profile as a Reseacher(Click to jump)
-[<img width="300" alt="image" src="https://github.com/user-attachments/assets/6f000641-b7a3-46e8-825c-60dde4c50472" />](https://scholar.google.com/citations?user=LZnH1HIAAAAJ&hl=en&authuser=1)
-[]()
+[<img width="200" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/4aace95a-f771-4de2-9cbd-bd4805b8c44f" />
+](https://scholar.google.com/citations?user=LZnH1HIAAAAJ&hl=en&authuser=1)
+[<img width="100" alt="image_processing20210912-1047-xwyj3n" src="https://github.com/user-attachments/assets/274495a6-b404-4262-af0e-7d96a07b98aa" />](https://scholar.google.com/citations?user=LZnH1HIAAAAJ&hl=en&authuser=1)
 
 
 ## Commits
