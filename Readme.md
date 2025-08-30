@@ -80,6 +80,16 @@ PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを�
 
 ---
 
+### 超解像アプリ(iOS・Android)
+
+AIが最大4倍で高解像度化するアプリ。フォルダ分類・メモ保存・検索まで必要な機能を全て搭載
+
+[iOS](近日リリース)
+
+[<img width="300" alt="スクリーンショット 2025-08-30 14 45 54" src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" />](https://github.com/sakai1250/super_res.git)
+
+---
+
 ### NERO(Android)
 毎日のタスクを管理するとともに、 睡眠時間も把握できるアプリ
 
@@ -105,8 +115,8 @@ https://mind-shuffle.web.app/
 
 ---
 
-### 超解像アプリ(iOS・Android)
-製作中
+
+
 
 # Playround
 
