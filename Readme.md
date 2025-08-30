@@ -80,7 +80,7 @@ PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを�
 
 ---
 
-### 超解像アプリ(iOS・Android)
+### 超kAI蔵(iOS)
 
 AIが最大4倍で高解像度化するアプリ。フォルダ分類・メモ保存・検索まで必要な機能を全て搭載
 
@@ -98,7 +98,7 @@ AIが最大4倍で高解像度化するアプリ。フォルダ分類・メモ�
 [Github url](https://github.com/jphacks/F_2107)
 
 ---
-### mind shuffle (web・iOS・Android)
+### mind shuffle (web・iOS)
 
 https://mind-shuffle.web.app/
 
