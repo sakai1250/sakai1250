@@ -41,104 +41,152 @@
 
 ## My Apps
 
-### kikonAshI(iOS)
-独自開発したファッションAIを搭載する、毎日着る服の組み合わせをAIが提案してくれるアプリ \
-**App Store リリース中** \
-ダウンロードは[こちら](https://apps.apple.com/jp/app/kikonashi/id6502258139)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">
+        <img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" width="220" /><br>
+        <b>kikonAshI (iOS)</b>
+      </a>
+      <p>
+        独自開発したファッションAIを搭載するアプリ。  
+        毎日着る服の組み合わせをAIが提案し、ユーザーがコーディネートを考える手間を削減。  
+        季節やシーンに応じたスタイルも考慮し、育成機能も搭載。  
+      </p>
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> | <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.jogiken.com/sugosugiru/">
+        <img src="https://github.com/user-attachments/assets/b1d58dae-fc06-4ca8-aae2-7b76901d79b8" width="220" /><br>
+        <b>すごすぎる時間割 (iOS/Android)</b>
+      </a>
+      <p>
+        情報技術研究会の一員として開発に協力した時間割アプリ。  
+        シンプルなUIで授業や予定を直感的に管理。  
+        スマホ上で簡単に時間割を確認できる。  
+      </p>
+      <a href="https://apps.apple.com/jp/app/%E3%81%99%E3%81%94%E3%81%99%E3%81%8E%E3%82%8B%E6%99%82%E9%96%93%E5%89%B2/id6744370038">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.jogiken.sugosugiru">Android</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sakai1250/HackU2022">
+        <img src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" width="220" /><br>
+        <b>StylePlan (Web/iOS)</b>
+      </a>
+      <p>
+        大学生の一人暮らしを支えるアプリ。  
+        天気予報、ToDoリスト、料理レシピ提案、音楽週間ランキングTop3という  
+        4つの機能をまとめて提供し、生活のあらゆる場面で役立つ。  
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jphacks/F_2208">
+        <img src="https://github.com/user-attachments/assets/770a600a-b3b5-4459-ae9a-f09943e82a0f" width="220" /><br>
+        <b>貯Pay箱 (Web)</b>
+      </a>
+      <p>
+        PayPayなどの電子マネーとToDo管理を組み合わせたWebアプリ。  
+        タスクを達成することでポイントやモチベーションを可視化し、  
+        チームや個人でのモチベーション維持と共有を促進する。  
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sakai1250/super_res.git">
+        <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
+        <b>超kAI蔵 (iOS・近日リリース)</b>
+      </a>
+      <p>
+        AIが最大4倍で高解像度化を実現するiOSアプリ。  
+        画像の超解像だけでなく、フォルダ分類・メモ保存・検索機能も搭載し、  
+        研究用途から日常利用まで幅広く使える。  
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jphacks/F_2107">
+        <img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" width="220" /><br>
+        <b>NERO (Android)</b>
+      </a>
+      <p>
+        毎日のタスクを管理すると同時に、睡眠時間を自動で記録できるアプリ。  
+        健康管理と作業効率を両立させるための習慣化をサポート。  
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://mind-shuffle.web.app/">
+        <img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" width="250" /><br>
+        <b>mind shuffle (Web/iOS)</b>
+      </a>
+      <p>
+        コーパスからランダムに単語を音声で再生するアプリ。  
+        カテゴリや再生間隔をユーザーが選択でき、語学学習やアイデア発想に活用。  
+      </p>
+    </td>
+    <td align="center">
+      <b>小銭カウントアプリ (iOS/Android・開発中)</b>
+      <p>
+        硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発中。  
+        日常的な小銭管理を効率化。  
+      </p>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" alt="GitHub画像" width="150">](https://github.com/sakai1250/hacku2023)
-
-[Github url](https://github.com/sakai1250/hacku2023)
-
----
-### すごすぎる時間割(iOS, Android)
-※情報技術研究会の一員として開発に協力
-[iOS](https://apps.apple.com/jp/app/%E3%81%99%E3%81%94%E3%81%99%E3%81%8E%E3%82%8B%E6%99%82%E9%96%93%E5%89%B2/id6744370038)
-[Android](https://play.google.com/store/apps/details?id=com.jogiken.sugosugiru)
-
-[<img width="150" src="https://github.com/user-attachments/assets/b1d58dae-fc06-4ca8-aae2-7b76901d79b8" />](https://www.jogiken.com/sugosugiru/)
-
-[公式サイト](https://www.jogiken.com/sugosugiru/)
-
----
-### StylePlan(Web,iOS)
-天気予報、ToDoリスト、料理のレシピ提案、音楽週間Top3という4つの機能を備えた、大学生の1人暮らし生活を支えるアプリ
-
-[<img width="150" alt="styleplan" src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" />](https://github.com/sakai1250/HackU2022)
-
-[Github url](https://github.com/sakai1250/HackU2022)
-
-
----
-
-### 貯Pay箱(Web)
-PayPayなどの電子マネーとTodo管理を組み合わせた、タスクを楽しくモチベーション共有・維持・管理するアプリ
-
-[<img src="https://github.com/user-attachments/assets/770a600a-b3b5-4459-ae9a-f09943e82a0f" width="100">](https://github.com/jphacks/F_2208)
-
-[Github url](https://github.com/jphacks/F_2208)
-
----
-
-### 超kAI蔵(iOS)
-
-AIが最大4倍で高解像度化するアプリ。フォルダ分類・メモ保存・検索まで必要な機能を全て搭載
-
-[iOS](近日リリース)
-
-[<img width="300" alt="スクリーンショット 2025-08-30 14 45 54" src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" />](https://github.com/sakai1250/super_res.git)
-
----
-
-### NERO(Android)
-毎日のタスクを管理するとともに、 睡眠時間も把握できるアプリ
-
-[<img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" alt="GitHub画像" width="150">](https://github.com/jphacks/F_2107)
-
-[Github url](https://github.com/jphacks/F_2107)
-
----
-### mind shuffle (web・iOS)
-
-https://mind-shuffle.web.app/
-
-コーパスからランダムに単語を音声再生するアプリ
-
-カテゴリ・再生間隔の選択可能
-
-[<img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" alt="GitHub画像" width="300">](https://github.com/sakai1250/mind-shuffle)
-
----
-
-### 小銭カウントアプリ(iOS・Android)
-製作中
-
----
 
 
 
 
-# Playround
+## Playround
 
-### 金魚画像識別サイト
-[<img width="150" alt="flask_app" src="https://github.com/user-attachments/assets/6810d77d-35e9-44ff-96c7-7921653a5e1c" />](https://github.com/sakai1250/ML_app_flask_test)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sakai1250/ML_app_flask_test">
+        <img src="https://github.com/user-attachments/assets/6810d77d-35e9-44ff-96c7-7921653a5e1c" width="220" /><br>
+        <b>金魚画像識別サイト</b>
+      </a>
+      <p>
+        Flaskを用いて構築した金魚画像識別のWebアプリ。  
+        ユーザーが金魚の画像をアップロードすると、AIモデルが種類を判別して表示する。  
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sakai1250/RL_super_mario_bro">
+        <img src="https://github.com/user-attachments/assets/f463115e-7fdf-47ac-97d1-164cb3b9bea7" width="220" /><br>
+        <b>SuperMario強化学習</b>
+      </a>
+      <p>
+        強化学習を用いて「スーパーマリオブラザーズ」を自動プレイさせるプロジェクト。  
+        ステージ 1-1, 1-3, 3-4, 4-1 クリア。  
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sakai1250/Block_KUZUSHI_unity">
+        <img src="https://github.com/user-attachments/assets/c82ac5df-8c0c-4e3b-b9e8-92ede64a08d9" width="220" /><br>
+        <b>ブロック崩しゲーム</b>
+      </a>
+      <p>
+        Unityで制作したクラシックなブロック崩しゲーム。  
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sakai1250/Tetorinu/tree/main">
+        <b>テトリヌ</b>
+      </a>
+      <p>
+        学部1年時に初めて作ったテトリス風ゲーム。  
+        学科内の投票で3位を獲得。
+      </p>
+    </td>
+  </tr>
+</table>
 
-[Github url](https://github.com/sakai1250/ML_app_flask_test)
-
-### SuperMarioを強化学習でプレイ(1-1, 1-3, 3-4, 4-1クリア)
-[<img width="150" alt="mario" src="https://github.com/user-attachments/assets/f463115e-7fdf-47ac-97d1-164cb3b9bea7" />](https://github.com/sakai1250/RL_super_mario_bro)
-
-[Github url](https://github.com/sakai1250/RL_super_mario_bro)
-
-### ブロック崩しゲーム
-[<img width="150" alt="blockkuzushi" src="https://github.com/user-attachments/assets/c82ac5df-8c0c-4e3b-b9e8-92ede64a08d9" />](https://github.com/sakai1250/Block_KUZUSHI_unity)
-
-[Github url](https://github.com/sakai1250/ML_app_flask_test](https://github.com/sakai1250/Block_KUZUSHI_unity))
-
-### テトリヌ
-学部1年時に初めて作ったテトリスゲーム(学科内投票で3位獲得？)
-
-[Github url](https://github.com/sakai1250/Tetorinu/tree/main)
 
 ## Kaggle
 
