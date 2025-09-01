@@ -153,7 +153,7 @@ https://mind-shuffle.web.app/
 <img alt="github stats" width="48.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=sakai1250&theme=dracula&show_icons=ture&count_private=true" />  
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=SSS,SS,S,AAA,AA,A)
 
 
 
