@@ -45,7 +45,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">
-        <img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" width="220" /><br>
+        <img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" width="200" /><br>
         <b>kikonAshI (iOS)</b>
       </a>
       <p>
