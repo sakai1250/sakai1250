@@ -96,13 +96,14 @@
     <td align="center">
       <a href="https://github.com/sakai1250/super_res.git">
         <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
-        <b>超kAI蔵 (iOS・近日リリース)</b>
+        <b>超kAI蔵 (iOS)</b>
       </a>
       <p>
         AIが最大4倍で高解像度化を実現するiOSアプリ。  
         画像の超解像だけでなく、フォルダ分類・メモ保存・検索機能も搭載し、  
         研究用途から日常利用まで幅広く使える。  
       </p>
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a>
     </td>
     <td align="center">
       <a href="https://github.com/jphacks/F_2107">
