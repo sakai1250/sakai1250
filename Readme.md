@@ -103,7 +103,7 @@
         画像の超解像だけでなく、フォルダ分類・メモ保存・検索機能も搭載し、  
         研究用途から日常利用まで幅広く使える。  
       </p>
-      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a>
+      <a href="https://apps.apple.com/jp/app/超kai蔵/id6751739848">App Store</a>
     </td>
     <td align="center">
       <a href="https://github.com/jphacks/F_2107">
