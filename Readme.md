@@ -1,3 +1,19 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Taigo+Sakai;I'm+a+Reseacher+of+Deep+learning;&font=Fira%20Code&center=true&width=800&height=90&color=f75c7e&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakai1250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/ikaitaig"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+
 # Profile as a Reseacher(Click to jump)
 [<img width="200" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/4aace95a-f771-4de2-9cbd-bd4805b8c44f" />
 ](https://scholar.google.com/citations?user=LZnH1HIAAAAJ&hl=en&authuser=1)
