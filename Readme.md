@@ -145,6 +145,22 @@
       </p>
     </td>
   </tr>
+    <tr>
+    <td align="center">
+        <b>画像AIアプリ(iOS)</b>
+      </a>
+      <p>
+        開発中  
+      </p>
+    </td>
+    <td align="center">
+        <b>iOSローカルLLMアプリ(iOS)</b>
+      </a>
+      <p>
+        開発中
+      </p>
+    </td>
+  </tr>
 </table>
 
 
