@@ -136,7 +136,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sakai1250/otsuri_docter">
-        <img src="https://github.com/user-attachments/assets/530b3683-0c7a-4ff9-b35a-053b892dba75" width="180" /><br>
+        <img src="https://github.com/user-attachments/assets/893a561c-adcc-4351-b21c-e205197605b9" width="180" /><br>
         <b>おつりDoctor (iOS)</b>
       </a>
       <p>
