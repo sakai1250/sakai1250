@@ -137,7 +137,8 @@
     <td align="center">
       <a href="https://github.com/sakai1250/otsuri_docter">
         <img src="https://github.com/user-attachments/assets/530b3683-0c7a-4ff9-b35a-053b892dba75" width="200" /><br>
-        <b>小銭カウントアプリ (iOS)</b>
+        <b>おつりDoctor (iOS)</b>
+      </a>
       <p>
         硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発。  
         育成機能付き。
