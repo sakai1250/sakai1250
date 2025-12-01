@@ -135,7 +135,9 @@
       </p>
     </td>
     <td align="center">
-      <b>小銭カウントアプリ (iOS/Android・開発中)</b>
+      <a href="https://github.com/sakai1250/otsuri_docter">
+        <img src="https://github.com/user-attachments/assets/530b3683-0c7a-4ff9-b35a-053b892dba75" width="250" /><br>
+        <b>小銭カウントアプリ (iOS)</b>
       <p>
         硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発中。  
         日常的な小銭管理を効率化。  
