@@ -148,12 +148,18 @@
   </tr>
     <tr>
     <td align="center">
-        <b>画像AIアプリ(iOS)</b>
+      <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">
+        <img src="https://github.com/user-attachments/assets/322c6e47-1bdd-47b5-8439-7b186ef4b687" width="180" /><br>
+        <b>Who is the Ground Truth? (iOS)</b>
       </a>
       <p>
-        開発中  
+        AIと対戦できるアプリ。画像AIとあなたで直接対決。  
+        真のGround Truthは誰だ！？
       </p>
+      <!-- <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">App Store</a> | <a href="https://github.com/sakai1250/otsuri_docter">GitHub</a> -->
     </td>
+  </tr>
+    <tr>
     <td align="center">
         <b>iOSローカルLLMアプリ(iOS)</b>
       </a>
