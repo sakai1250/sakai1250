@@ -156,7 +156,7 @@
         AIと対戦できるアプリ。画像AIとあなたで直接対決。  
         真のGround Truthは誰だ！？
       </p>
-      <a href="https://apps.apple.com/jp/app/id6755966828">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
+      <a href="https://apps.apple.com/jp/app/id6755972438">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
     </td>
   </tr>
     <tr>
