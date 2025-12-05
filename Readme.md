@@ -141,7 +141,7 @@
       </a>
       <p>
         硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発。  
-        育成機能付き。
+        ユーザー育成機能付き。
       </p>
       <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">App Store</a> | <a href="https://github.com/sakai1250/otsuri_docter">GitHub</a>
     </td>
@@ -156,7 +156,7 @@
         AIと対戦できるアプリ。画像AIとあなたで直接対決。  
         真のGround Truthは誰だ！？
       </p>
-      <!-- <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">App Store</a> | <a href="https://github.com/sakai1250/otsuri_docter">GitHub</a> -->
+      <a href="https://apps.apple.com/jp/app/id6755966828">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
     </td>
   </tr>
     <tr>
