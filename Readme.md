@@ -123,6 +123,7 @@
       </p>
     </td>
   </tr>
+  
   <tr>
     <td align="center">
       <a href="https://mind-shuffle.web.app/">
@@ -158,10 +159,28 @@
       </p>
       <a href="https://apps.apple.com/jp/app/id6755972438">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
         <b>iOSローカルLLMアプリ(iOS)</b>
+      </a>
+      <p>
+        開発中
+      </p>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <a href="https://recolle.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/321aa41a-fb83-470b-8d45-0f44b94eb28a" width="180" /><br>
+        <b>recolLe ~NFC Photo Albam~ (Web・iOS)</b>
+      </a>
+      <p>
+        iOS版の作成を担当。web撮って終わりの写真を、「かざす」という動きで呼び出す。
+        お気に入りの写真をアクリルキーホルダー化し、スマートフォンをかざすだけで自然に思い出を振り返ることができる。
+      </p>
+       <a href="https://recolle.vercel.app/">Web | <a href="https://apps.apple.com/jp/app/id6755230226">App Store</a>
+    </td>
+    <td align="center">
+        <b></b>
       </a>
       <p>
         開発中
