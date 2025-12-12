@@ -65,7 +65,7 @@
     <td align="center" width="50%">
       <a href="https://www.jogiken.com/sugosugiru/">
         <img src="https://github.com/user-attachments/assets/b1d58dae-fc06-4ca8-aae2-7b76901d79b8" width="220" /><br>
-        <b>すごすぎる時間割 (iOS/Android)</b>
+        <b>すごすぎる時間割 (iOS・Android)</b>
       </a>
       <p>
         情報技術研究会の一員として開発に協力した時間割アプリ。  
@@ -77,17 +77,42 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sakai1250/HackU2022">
-        <img src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" width="220" /><br>
-        <b>StylePlan (Web/iOS)</b>
+      <a href="https://recolle.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/321aa41a-fb83-470b-8d45-0f44b94eb28a" width="180" /><br>
+        <b>recolLe ~NFC Photo Albam~ (Web・iOS)</b>
       </a>
       <p>
-        大学生の一人暮らしを支えるアプリ。  
-        天気予報、ToDoリスト、料理レシピ提案、音楽週間ランキングTop3という  
-        4つの機能をまとめて提供し、生活のあらゆる場面で役立つ。  
+        iOS版の作成を担当。web撮って終わりの写真を、「かざす」という動きで呼び出す。
+        お気に入りの写真をアクリルキーホルダー化し、スマートフォンをかざすだけで自然に思い出を振り返ることができる。
       </p>
+       <a href="https://recolle.vercel.app/">Web</a> | <a href="https://apps.apple.com/jp/app/id6755230226">App Store</a>
     </td>
+      <td align="center">
+      <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">
+        <img src="https://github.com/user-attachments/assets/52ef9d7e-7f2d-4c4b-88d1-8d822a382450" width="180" /><br>
+        <b>おつりDoctor (iOS)</b>
+      </a>
+      <p>
+        硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発。  
+        ユーザー育成機能付き。
+      </p>
+      <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">App Store</a> | <a href="https://github.com/sakai1250/otsuri_docter">GitHub</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
+      <a href="https://github.com/sakai1250/super_res.git">
+        <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
+        <b>超kAI蔵 (iOS)</b>
+      </a>
+      <p>
+        AIが最大4倍で高解像度化するiOSアプリ。  
+        画像の超解像だけでなく、フォルダ分類・メモ保存・検索機能も搭載し、  
+        研究用途から日常利用まで幅広く使える。  
+      </p>
+      <a href="https://apps.apple.com/jp/app/超kai蔵/id6751739848">App Store</a> | <a href="https://github.com/sakai1250/super_res.git">GitHub</a>
+    </td>
+      <td align="center">
       <a href="https://github.com/jphacks/F_2208">
         <img src="https://github.com/user-attachments/assets/770a600a-b3b5-4459-ae9a-f09943e82a0f" width="220" /><br>
         <b>貯Pay箱 (Web)</b>
@@ -99,55 +124,8 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sakai1250/super_res.git">
-        <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
-        <b>超kAI蔵 (iOS)</b>
-      </a>
-      <p>
-        AIが最大4倍で高解像度化を実現するiOSアプリ。  
-        画像の超解像だけでなく、フォルダ分類・メモ保存・検索機能も搭載し、  
-        研究用途から日常利用まで幅広く使える。  
-      </p>
-      <a href="https://apps.apple.com/jp/app/超kai蔵/id6751739848">App Store</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jphacks/F_2107">
-        <img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" width="220" /><br>
-        <b>NERO (Android)</b>
-      </a>
-      <p>
-        毎日のタスクを管理すると同時に、睡眠時間を自動で記録できるアプリ。  
-        健康管理と作業効率を両立させるための習慣化をサポート。  
-      </p>
-    </td>
-  </tr>
   
   <tr>
-    <td align="center">
-      <a href="https://mind-shuffle.web.app/">
-        <img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" width="250" /><br>
-        <b>mind shuffle (Web/iOS)</b>
-      </a>
-      <p>
-        コーパスからランダムに単語を音声で再生するアプリ。  
-        カテゴリや再生間隔をユーザーが選択でき、語学学習やアイデア発想に活用。  
-      </p>
-    </td>
-    <td align="center">
-      <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">
-        <img src="https://github.com/user-attachments/assets/893a561c-adcc-4351-b21c-e205197605b9" width="180" /><br>
-        <b>おつりDoctor (iOS)</b>
-      </a>
-      <p>
-        硬貨をカメラで撮影するだけで金額を自動集計できるアプリを開発。  
-        ユーザー育成機能付き。
-      </p>
-      <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">App Store</a> | <a href="https://github.com/sakai1250/otsuri_docter">GitHub</a>
-    </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">
         <img src="https://github.com/user-attachments/assets/322c6e47-1bdd-47b5-8439-7b186ef4b687" width="180" /><br>
@@ -160,6 +138,28 @@
       <a href="https://apps.apple.com/jp/app/id6755972438">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jphacks/F_2107">
+        <img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" width="220" /><br>
+        <b>NERO (Android)</b>
+      </a>
+      <p>
+        毎日のタスクを管理すると同時に、睡眠時間を自動で記録できるアプリ。  
+        健康管理と作業効率を両立させるための習慣化をサポート。  
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://mind-shuffle.web.app/">
+        <img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" width="250" /><br>
+        <b>mind shuffle (Web/iOS)</b>
+      </a>
+      <p>
+        コーパスからランダムに単語を音声で再生するアプリ。  
+        カテゴリや再生間隔をユーザーが選択でき、語学学習やアイデア発想に活用。  
+      </p>
+    </td>
+    <td align="center">
         <b>iOSローカルLLMアプリ(iOS)</b>
       </a>
       <p>
@@ -169,15 +169,15 @@
   </tr>
       <tr>
     <td align="center">
-      <a href="https://recolle.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/321aa41a-fb83-470b-8d45-0f44b94eb28a" width="180" /><br>
-        <b>recolLe ~NFC Photo Albam~ (Web・iOS)</b>
+      <a href="https://github.com/sakai1250/HackU2022">
+        <img src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" width="220" /><br>
+        <b>StylePlan (Web・iOS)</b>
       </a>
       <p>
-        iOS版の作成を担当。web撮って終わりの写真を、「かざす」という動きで呼び出す。
-        お気に入りの写真をアクリルキーホルダー化し、スマートフォンをかざすだけで自然に思い出を振り返ることができる。
+        大学生の一人暮らしを支えるアプリ。  
+        天気予報、ToDoリスト、料理レシピ提案、音楽週間ランキングTop3という  
+        4つの機能をまとめて提供し、生活のあらゆる場面で役立つ。  
       </p>
-       <a href="https://recolle.vercel.app/">Web | <a href="https://apps.apple.com/jp/app/id6755230226">App Store</a>
     </td>
     <td align="center">
         <b></b>
