@@ -255,8 +255,7 @@
 <img alt="github stats" width="48.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=sakai1250&theme=dracula&show_icons=ture&count_private=true" />  
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=sakai1250&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=SSS,SS,S,AAA,AA,A)
-
+<img src="https://github-trophies.vercel.app/?username=sakai1250&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 
 
 [![](https://visitcount.itsvg.in/api?id=sakai1250&icon=0&color=0)](https://visitcount.itsvg.in)
