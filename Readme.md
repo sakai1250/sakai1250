@@ -5,7 +5,7 @@
 </p> 
 
 
-# Profile as a Reseacher(Click to jump)
+# Profile as a Reseacher(Click to jump) 
 [<img width="150" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/4aace95a-f771-4de2-9cbd-bd4805b8c44f" />
 ](https://scholar.google.com/citations?user=eS-5wrQAAAAJ&hl=ja&authuser=2)
 [<img width="70" alt="image_processing20210912-1047-xwyj3n" src="https://github.com/user-attachments/assets/274495a6-b404-4262-af0e-7d96a07b98aa" />](https://www.researchgate.net/profile/Taigo-Sakai?ev=hdr_xprf)
