@@ -45,7 +45,7 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
 ## Organizations
 [<img src="https://github.com/user-attachments/assets/06029876-4a7b-44fe-8df6-cac6bbbf8391" alt="GitHub画像" width="100">](https://github.com/RM-NAGOYASHACHIHOKO)
