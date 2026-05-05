@@ -106,6 +106,18 @@
     </td>
   </tr>
   <tr>
+        <td align="center" width="50%">
+      <a href="https://github.com/sakai1250/PresentMemo">
+        <img src="https://github.com/user-attachments/assets/3003e521-a656-4c6a-aaf4-e983ff9ef91a" width="200" /><br>
+        <b>MAIORAL (iOS)</b>
+      </a>
+      <p>
+        独自開発の学習特化AIを搭載した、発表準備向けアプリ。
+PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動で整理して復習効率を向上。
+暗記・クイズ・聞き流し・リハーサルを一つにまとめ、発表直前でも気軽に開いて練習可能。
+      </p>
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> | <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
+    </td>
     <td align="center">
       <a href="https://github.com/sakai1250/super_res.git">
         <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
