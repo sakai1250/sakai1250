@@ -1,15 +1,15 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Taigo+Sakai;I'm+a+Reseacher+of+Deep+learning;&font=Fira%20Code&center=true&width=800&height=90&color=ffffff&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Taigo+Sakai;I'm+a+Researcher+of+Deep+learning;&font=Fira%20Code&center=true&width=800&height=90&color=ffffff&vCenter=true&pause=1000&size=40" /></a>
 </p> 
 
 
-# Profile as a Reseacher(Click to jump) 
+# Profile as a Researcher (Click to jump) 
 [<img width="150" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/4aace95a-f771-4de2-9cbd-bd4805b8c44f" />
 ](https://scholar.google.com/citations?user=eS-5wrQAAAAJ&hl=ja&authuser=2)
 [<img width="70" alt="image_processing20210912-1047-xwyj3n" src="https://github.com/user-attachments/assets/274495a6-b404-4262-af0e-7d96a07b98aa" />](https://www.researchgate.net/profile/Taigo-Sakai?ev=hdr_xprf)
-[<img width="100" title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' /></a>](https://researchmap.jp/sakai1250)
+[<img width="100" title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' />](https://researchmap.jp/sakai1250)
 
 ## Commits
 <picture>
@@ -82,18 +82,18 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://recolle.vercel.app/">
         <img src="https://github.com/user-attachments/assets/321aa41a-fb83-470b-8d45-0f44b94eb28a" width="180" /><br>
-        <b>recolLe ~NFC Photo Albam~ (Web・iOS)</b>
+        <b>recolLe ~NFC Photo Album~ (Web・iOS)</b>
       </a>
       <p>
-        iOS版の作成を担当。web撮って終わりの写真を、「かざす」という動きで呼び出す。
+        iOS版の作成を担当。撮って終わりの写真を、「かざす」という動きで呼び出す。
         お気に入りの写真をアクリルキーホルダー化し、スマートフォンをかざすだけで自然に思い出を振り返ることができる。
       </p>
-       <a href="https://recolle.vercel.app/">Web</a> | <a href="https://apps.apple.com/jp/app/id6755230226">App Store</a>
+      <a href="https://recolle.vercel.app/">Web</a> | <a href="https://apps.apple.com/jp/app/id6755230226">App Store</a>
     </td>
-      <td align="center">
+    <td align="center" width="50%">
       <a href="https://itunes.apple.com/jp/app/id6755966828?mt=8">
         <img src="https://github.com/user-attachments/assets/52ef9d7e-7f2d-4c4b-88d1-8d822a382450" width="180" /><br>
         <b>おつりDoctor (iOS)</b>
@@ -106,19 +106,19 @@
     </td>
   </tr>
   <tr>
-        <td align="center" width="50%">
+    <td align="center" width="50%">
       <a href="https://github.com/sakai1250/PresentMemo">
         <img src="https://github.com/user-attachments/assets/3003e521-a656-4c6a-aaf4-e983ff9ef91a" width="200" /><br>
         <b>MAIORAL (iOS)</b>
       </a>
       <p>
         独自開発の学習特化AIを搭載した、発表準備向けアプリ。
-PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動で整理して復習効率を向上。
-暗記・クイズ・聞き流し・リハーサルを一つにまとめ、発表直前でも気軽に開いて練習可能。
+        PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動で整理して復習効率を向上。
+        暗記・クイズ・聞き流し・リハーサルを一つにまとめ、発表直前でも気軽に開いて練習可能。
       </p>
       <a href="https://apps.apple.com/jp/app/kikonashi/id6762557219">App Store</a> | <a href="https://github.com/sakai1250/PresentMemo">GitHub</a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/sakai1250/super_res.git">
         <img src="https://github.com/user-attachments/assets/3c2a0ed5-b342-4b52-b6f7-b706f5d005cd" width="250" /><br>
         <b>超kAI蔵 (iOS)</b>
@@ -130,7 +130,9 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
       </p>
       <a href="https://apps.apple.com/jp/app/超kai蔵/id6751739848">App Store</a> | <a href="https://github.com/sakai1250/super_res.git">GitHub</a>
     </td>
-      <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/jphacks/F_2208">
         <img src="https://github.com/user-attachments/assets/770a600a-b3b5-4459-ae9a-f09943e82a0f" width="220" /><br>
         <b>貯Pay箱 (Web)</b>
@@ -141,10 +143,7 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
         チームや個人でのモチベーション維持と共有を促進する。  
       </p>
     </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">
         <img src="https://github.com/user-attachments/assets/322c6e47-1bdd-47b5-8439-7b186ef4b687" width="180" /><br>
         <b>Who is the Ground Truth? (iOS)</b>
@@ -155,7 +154,9 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
       </p>
       <a href="https://apps.apple.com/jp/app/id6755972438">App Store</a> | <a href="https://github.com/sakai1250/Who-is-the-Ground-Truth-">GitHub</a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/jphacks/F_2107">
         <img src="https://github.com/user-attachments/assets/b6dec124-0428-49cc-9835-4d2a2d89f23a" width="220" /><br>
         <b>NERO (Android)</b>
@@ -165,9 +166,7 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
         健康管理と作業効率を両立させるための習慣化をサポート。  
       </p>
     </td>
-  </tr>
-    <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://mind-shuffle.web.app/">
         <img src="https://github.com/user-attachments/assets/abf88b03-47e7-49bb-8ab2-d4d1ca382cf0" width="250" /><br>
         <b>mind shuffle (Web/iOS)</b>
@@ -177,16 +176,15 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
         カテゴリや再生間隔をユーザーが選択でき、語学学習やアイデア発想に活用。  
       </p>
     </td>
-    <td align="center">
-        <b>iOSローカルLLMアプリ(iOS)</b>
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>iOSローカルLLMアプリ (iOS)</b>
       <p>
         開発中
       </p>
     </td>
-  </tr>
-      <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/sakai1250/HackU2022">
         <img src="https://github.com/user-attachments/assets/0e3a5e1e-a535-4aa6-918e-a66d2c62f4be" width="220" /><br>
         <b>StylePlan (Web・iOS)</b>
@@ -197,21 +195,22 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
         4つの機能をまとめて提供し、生活のあらゆる場面で役立つ。  
       </p>
     </td>
-    <td align="center">
-        <b></b>
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Developing</b>
       <p>
         開発中
       </p>
+    </td>
+    <td align="center" width="50%">
+      <!-- Empty cell -->
     </td>
   </tr>
 </table>
 
 
-
-
-
-## Playround
+## Playground
 
 <table>
   <tr>
@@ -251,7 +250,7 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
         <b>テトリヌ</b>
       </a>
       <p>
-        学部1年時に初めて作ったテトリス風ゲーム。  
+        学部1年時に初めて作ったテトリス風ゲーム.  
         学科内の投票で3位を獲得。
       </p>
     </td>
@@ -266,7 +265,7 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
 # GitHub Stats:
 <p>
 <img alt="Top Langs" width="40.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=sakai1250&layout=compact&show_icons=true&theme=dracula&count_private=true" />
-<img alt="github stats" width="48.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=sakai1250&theme=dracula&show_icons=ture&count_private=true" />  
+<img alt="github stats" width="48.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=sakai1250&theme=dracula&show_icons=true&count_private=true" />  
 </p>
 
 <img src="https://github-trophies.vercel.app/?username=sakai1250&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
@@ -276,7 +275,4 @@ PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動�
 
 
 ## Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ikaitaig) [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=data:image/vnd.microsoft.icon;base64,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&label=Qiita)](https://qiita.com/sakai1250)
-
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ikaitaig) [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=data:image/vnd.microsoft.icon;base64,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&label=Qiita)](https://qiita.com/sakai1250)
