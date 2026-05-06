@@ -116,7 +116,7 @@
         PDF・PPTXから重要語句をAIが抽出し、覚えるべき内容を自動で整理して復習効率を向上。
         暗記・クイズ・聞き流し・リハーサルを一つにまとめ、発表直前でも気軽に開いて練習可能。
       </p>
-      <a href="https://apps.apple.com/jp/app/kikonashi/id6762557219">App Store</a> | <a href="https://github.com/sakai1250/PresentMemo">GitHub</a>
+      <a href="https://apps.apple.com/jp/app/id6762557219">App Store</a> | <a href="https://github.com/sakai1250/PresentMemo">GitHub</a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/sakai1250/super_res.git">
